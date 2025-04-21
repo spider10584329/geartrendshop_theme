@@ -1,0 +1,186 @@
+{
+  "article": [],
+  "blog": [],
+  "collection": [
+    {
+      "key": "description_tag",
+      "namespace": "custom",
+      "name": "description_tag",
+      "description": "",
+      "type": {
+        "name": "rich_text_field",
+        "category": "TEXT"
+      }
+    },
+    {
+      "key": "sale_name",
+      "namespace": "custom",
+      "name": "sale_name",
+      "description": "",
+      "type": {
+        "name": "number_integer",
+        "category": "NUMBER"
+      }
+    },
+    {
+      "key": "sale_timeframe",
+      "namespace": "custom",
+      "name": "sale_timeframe",
+      "description": "",
+      "type": {
+        "name": "number_integer",
+        "category": "NUMBER"
+      }
+    },
+    {
+      "key": "sale_button_text",
+      "namespace": "custom",
+      "name": "sale_button_text",
+      "description": "",
+      "type": {
+        "name": "single_line_text_field",
+        "category": "TEXT"
+      }
+    },
+    {
+      "key": "banner_background_color",
+      "namespace": "custom",
+      "name": "banner_background_color",
+      "description": "",
+      "type": {
+        "name": "color",
+        "category": "COLOR"
+      }
+    }
+  ],
+  "company": [],
+  "company_location": [],
+  "location": [],
+  "market": [],
+  "order": [],
+  "page": [],
+  "product": [
+    {
+      "key": "reviews",
+      "namespace": "custom",
+      "name": "reviews",
+      "description": "",
+      "type": {
+        "name": "json",
+        "category": "JSON"
+      }
+    },
+    {
+      "key": "sale_text",
+      "namespace": "custom",
+      "name": "sale_text",
+      "description": "",
+      "type": {
+        "name": "rich_text_field",
+        "category": "TEXT"
+      }
+    },
+    {
+      "key": "tops_bottoms_separate",
+      "namespace": "custom",
+      "name": "tops_bottoms_separate",
+      "description": "",
+      "type": {
+        "name": "rich_text_field",
+        "category": "TEXT"
+      }
+    },
+    {
+      "key": "last_call_notification",
+      "namespace": "custom",
+      "name": "last_call_notification",
+      "description": "",
+      "type": {
+        "name": "rich_text_field",
+        "category": "TEXT"
+      }
+    },
+    {
+      "key": "new_description",
+      "namespace": "details",
+      "name": "new_description",
+      "description": "",
+      "type": {
+        "name": "rich_text_field",
+        "category": "TEXT"
+      }
+    },
+    {
+      "key": "fit_code",
+      "namespace": "details",
+      "name": "fit_code",
+      "description": "",
+      "type": {
+        "name": "rich_text_field",
+        "category": "TEXT"
+      }
+    },
+    {
+      "key": "print",
+      "namespace": "product",
+      "name": "print",
+      "description": "",
+      "type": {
+        "name": "rich_text_field",
+        "category": "TEXT"
+      }
+    },
+    {
+      "key": "product_badge_one",
+      "namespace": "custom",
+      "name": "product_badge_one",
+      "description": "",
+      "type": {
+        "name": "file_reference",
+        "category": "REFERENCE"
+      }
+    },
+    {
+      "key": "product_badge_two",
+      "namespace": "custom",
+      "name": "product_badge_two",
+      "description": "",
+      "type": {
+        "name": "file_reference",
+        "category": "REFERENCE"
+      }
+    },
+    {
+      "key": "product_badge_two_label",
+      "namespace": "custom",
+      "name": "product_badge_two_label",
+      "description": "",
+      "type": {
+        "name": "single_line_text_field",
+        "category": "TEXT"
+      }
+    },
+    {
+      "key": "product_badge_one_label",
+      "namespace": "custom",
+      "name": "product_badge_one_label",
+      "description": "",
+      "type": {
+        "name": "single_line_text_field",
+        "category": "TEXT"
+      }
+    },
+    {
+      "key": "outerwear-clothing-features",
+      "namespace": "shopify",
+      "name": "Outerwear clothing features",
+      "description": "Identifies special characteristics of outerwear, like insulated or waterproof",
+      "type": {
+        "name": "list.metaobject_reference",
+        "category": "REFERENCE"
+      }
+    }
+  ],
+  "variant": [],
+  "shop": []
+}
